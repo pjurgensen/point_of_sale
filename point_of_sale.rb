@@ -245,7 +245,21 @@ def delete_cashier
 end
 
 # cashier methods  ===============================================
+def purchase_transaction
 
+end
+
+def cashier_list_purchases
+
+end
+
+def modify_purchase
+
+end
+
+def void_purchase
+
+end
 
 
 
